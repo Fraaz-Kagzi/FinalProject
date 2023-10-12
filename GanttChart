@@ -1,20 +1,14 @@
-| Software Development Phase            | Start Date  | End Date    |
-|-------------------------------------|-------------|-------------|
-| Project Initiation                   | 2023-10-16  | 2023-10-29  |
-| Requirements Analysis and Planning   | 2023-10-30  | 2023-11-12  |
-| System Design and Architecture       | 2023-11-13  | 2023-11-26  |
-| Database Design and Implementation    | 2023-11-27  | 2024-01-07  |
-| User Interface Design and Prototyping | 2024-01-08  | 2024-02-04  |
-| Frontend and Backend Development     | 2024-01-08  | 2024-03-03  |
-| Integration and Testing              | 2024-03-04  | 2024-04-14  |
-| User Acceptance Testing              | 2024-04-15  | 2024-05-12  |
-| Iterative Improvement and Bug Fixes  | 2024-05-13  | 2024-06-02  |
-| Security and Performance Optimization | 2024-06-03  | 2024-06-16  |
-| Documentation and Reporting          | 2024-06-17  | 2024-06-30  |
-| Interim Report Submission            | 2023-11-27  | 2023-11-27  |
-| Progress Slides Submission           | 2023-12-04  | 2023-12-04  |
-| Progress Presentation                | 2023-12-11  | 2023-12-15  |
-| Draft Report                         | 2023-12-18  | 2024-03-17  |
-| Final Report Submission              | 2024-03-18  | 2024-04-28  |
-| Project Video Submission             | 2024-04-29  | 2024-04-29  |
-| Viva                                 | 2024-05-06  | 2024-05-17  |
+| Task                                      | Duration
+|------------------------------------------|----------
+| Concept Development                       | 1 week  
+| Content Research                          | 2 week
+| Storyboarding                             | 1 week
+| User Interface Design                     | 2 weeks
+| Database Design                           | 2 weejs
+| Unity Development                         | 8 weeks
+| SQL Implementation                        | 2 weeks
+| Educational Content Integration           | 2 weeks
+| Saving/Account System                     | 1 week
+| Testing and Feedback                      | 2 weeks
+| Possible Security Measures                |1 weeks
+| Art and Audio                             | if time 2/3 weeks
