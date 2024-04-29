@@ -6,23 +6,23 @@ public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;  // Adjust as needed
     public Rigidbody2D rb;
-    public Animator animator;
+   // public Animator animator;
     public LayerMask solidObjects;
     public Camera mainCamera;
     private Vector2 input;
 
     Vector2 movement;
 
-    void Update()
+    public void HandleUpdate()
     {
         // Input
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
 
-        // Animation
+       /* // Animation
         animator.SetFloat("Horizontal", movement.x);
         animator.SetFloat("Vertical", movement.y);
-        animator.SetFloat("Speed", movement.sqrMagnitude);
+        animator.SetFloat("Speed", movement.sqrMagnitude);*/
     }
 
     void FixedUpdate()
