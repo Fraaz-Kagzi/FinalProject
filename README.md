@@ -9,7 +9,7 @@ ProjectHistory_Mac.APP if on MacOS.
 
 can also download executable game file from : https://fraazkagzi.itch.io/projecthistory
 
-GAME CREATED USING UNITY 
+GAME CREATED USING UNITY \n
 SCRIPTS ARE LOCATED IN : Assets/Scripts
 
 SCRIPTS FOR PLAYER: 
